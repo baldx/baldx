@@ -1,9 +1,6 @@
 ### Hi there 👋, my name is baldx. 
 
-Goals:
 100kg bench
-1.5x bw squat
-80kg lean (90kg bulk)
 
 <!--
 **baldx/baldx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
