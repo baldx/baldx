@@ -1,6 +1,4 @@
-### Hi there 👋, my name is baldx. 
-
-100kg bench
+### Hi there 👋, my name is Ahmad. 
 
 <!--
 **baldx/baldx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
